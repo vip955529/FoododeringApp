@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977935378299",
+    "project_id": "foododeringapp-b7fc2",
+    "storage_bucket": "foododeringapp-b7fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977935378299:android:eec99af0aceebd5f593fde",
+        "android_client_info": {
+          "package_name": "com.example.foododeringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977935378299-pgso10mrs8pelhkc1jieqqkar57anvvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG8g0Nv6O1mrbCS3K1AcaXZB7FHKPiXx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977935378299-pgso10mrs8pelhkc1jieqqkar57anvvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
